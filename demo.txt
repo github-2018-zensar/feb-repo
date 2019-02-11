@@ -1,2 +1,0 @@
-A text file is created
-New text is added to this file

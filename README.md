@@ -1,0 +1,3 @@
+# Demo Project REDME
+This is a demo project file
+Understanding git commands using this file...
